@@ -9,7 +9,7 @@ pipeline {
         HOST_PORT           = '8002'    // host port on EC2
         CONTAINER_PORT      = '8000'    // port inside container
         EC2_USER            = 'ec2-user'
-        EC2_HOST            = '44.208.89.64'
+        EC2_HOST            = '3.14.235.253'
     }
 
     stages {
